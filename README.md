@@ -1,4 +1,3 @@
-# portfolio-apresentacao
 # 👋 Olá! Eu sou Fábio Cunha
 
 Sou estudante de **Programação Java**, focado em desenvolvimento backend e na construção de uma base sólida em lógica de programação, orientação a objetos e boas práticas.
